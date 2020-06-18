@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class X_AgeCalc {
+public class X_AgeCalcOld {
  
     public static void main(String[] args) {
     
